@@ -12,6 +12,9 @@ h1 {
   text-transform: uppercase;
   text-shadow: 5px 5px 4px white;
   font-size: 75px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: sofia;
 }
 
 p {
@@ -30,6 +33,7 @@ p {
 
 .third {
   text-indent: 50px;
+  line-height: 2em;
 }
 
 body {
